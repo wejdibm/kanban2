@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">kanban</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="click_to_registre">click to registre</string>
+    <string name="registre">registre</string>
+    <string name="click_to_login">click to login</string>
+    <string name="numero_de_ligne">numero de ligne</string>
+    <string name="poste">poste</string>
+    <string name="nom_de_composant">nom de composant</string>
+    <string name="nom_de_ligne">nom de ligne</string>
+    <string name="num_ro_de_ligne">numéro de ligne</string>
+    <string name="num_ro_de_poste">numéro de poste</string>
+    <string name="poids">poids</string>
+    <string name="logout">Logout</string>
+    <string name="notification">Notification</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+    <string name="title_activity_main244">MainActivity244</string>
+</resources>

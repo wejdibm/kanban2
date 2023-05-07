@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/home1"
+            android:icon="@drawable/baseline_home_24"
+            android:title="Accueil"/>
+        <item
+            android:title="Liste des utilisateurs"
+            android:id="@+id/listprofil"
+            android:icon="@drawable/baseline_supervised_user_circle_24"
+            />
+        <item android:id="@+id/controle"
+            android:icon="@drawable/baseline_settings_24"
+            android:title="Controle"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:icon="@drawable/baseline_logout_24"
+            android:id="@+id/logout"
+            android:title="Se déconnecter"/>
+
+    </group>
+</menu>
+

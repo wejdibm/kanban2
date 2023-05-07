@@ -1,0 +1,18 @@
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/darwer_"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/v915_wit_003_e_1_1"
+    tools:context=".admin" >
+
+    <com.google.android.material.navigation.NavigationView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        app:headerLayout="@layout/header"
+        app:menu="@menu/main_menuadmin"
+        android:layout_gravity="start"
+        android:id="@+id/nav_view2"/>
+</androidx.drawerlayout.widget.DrawerLayout>
+
